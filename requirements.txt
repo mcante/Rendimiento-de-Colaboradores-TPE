@@ -1,0 +1,7 @@
+Django==2.0.2
+django-braces==1.13.0
+django-datatable-view==0.9.0
+Pillow==5.4.1
+python-dateutil==2.7.5
+pytz==2018.9
+six==1.12.0
